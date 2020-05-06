@@ -8,7 +8,7 @@
     font-family: baseFont;
     font-style: normal;
     src: local('Quicksand'),
-    url("fonts/Quicksand-Regular.ttf");
+    url("../fonts/Quicksand-Regular.ttf");
 }
 :root {
     --main: #0191EA;
@@ -727,7 +727,7 @@ html, body {
     position: absolute;
     left: 0;
     width: 100%;
-    background: url('img/menu-down.png') no-repeat 95% 50%;
+    background: url('../img/menu-down.png') no-repeat 95% 50%;
     border: 1px solid #aaa;
     box-sizing: border-box;
     /*background: var(--selectArrow) no-repeat 95% 50%;*/
