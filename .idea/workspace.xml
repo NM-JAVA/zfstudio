@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11b09ac9-55ec-4909-b85e-0842583d6f4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Quicksand-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/app_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/exampleAvatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/exampleavatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/menu-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/small_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/teapot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/tiny_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="482" column="63" selection-start-line="482" selection-start-column="54" selection-end-line="482" selection-end-column="63" />
+            <state relative-caret-position="329">
+              <caret line="357" lean-forward="true" selection-start-line="357" selection-end-line="357" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,6 +71,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Debug</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -122,12 +117,6 @@
               <item name="zfstudio" type="b2602c69:ProjectViewProjectNode" />
               <item name="zfstudio" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zfstudio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zfstudio" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588765724397</updated>
-      <workItem from="1588765726436" duration="3631000" />
+      <workItem from="1588765726436" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1588765788524</created>
@@ -198,11 +187,32 @@
       <option name="project" value="LOCAL" />
       <updated>1588768856077</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Init 5">
+      <created>1588769567261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588769567261</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Init 6">
+      <created>1588769594133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588769594133</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Init 7">
+      <created>1588769771088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588769771088</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3631000" />
+    <option name="totallyTimeSpent" value="4532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1296" height="786" extended-state="6" />
@@ -264,7 +274,10 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Init 1" />
     <MESSAGE value="Init 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init 2" />
+    <MESSAGE value="Init 5" />
+    <MESSAGE value="Init 6" />
+    <MESSAGE value="Init 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/css/materialdesignicons.css">
@@ -341,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="482" column="63" selection-start-line="482" selection-start-column="54" selection-end-line="482" selection-end-column="63" />
+        <state relative-caret-position="329">
+          <caret line="357" lean-forward="true" selection-start-line="357" selection-end-line="357" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
